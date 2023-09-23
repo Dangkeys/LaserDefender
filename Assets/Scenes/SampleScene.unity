@@ -417,6 +417,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e19b8a5b78e9eee45b50fb401d565c14, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  isLooping: 1
   waveConfigs:
   - {fileID: 11400000, guid: c8b0ce148887b144f83d03ca2954063e, type: 2}
   - {fileID: 11400000, guid: 95bb596b428199040bac8a93c1d13c62, type: 2}
